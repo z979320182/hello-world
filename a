@@ -1,0 +1,3 @@
+#!usr/bin/env python
+
+print('我是一只小白猫')
